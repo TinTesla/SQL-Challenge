@@ -1,7 +1,7 @@
 # SQL-Challenge: Module 9
 
 ## Content
-Within this module's Repository, I've included the full SQL script in the main, and all the output queries in a subfolder. The names of each query are sequenced as outlined in the module's instructions and also correspond to the code in the full script. I've also included a basic Jupyter file I used to help myself mentally map the process. 
+Within this module's Repository, I've included the full SQL script in the main, and all the output queries in a subfolder "outputs". The names of each query are sequenced as outlined in the module's instructions and also correspond to the code in the full script. I've also included a basic Jupyter file I used to help myself mentally map the process. 
 
 
 ## Background Story
